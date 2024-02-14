@@ -64,3 +64,8 @@ Java 21 API documentation:
 Oracle Java Magazine quiz questions
  - https://blogs.oracle.com/javamagazine/search.html?q=Quiz+Yourself
 
+Get Java Here:
+ - https://adoptium.org/
+
+Java IDE Here:
+ - https://www.jetbrains.com/idea/download
