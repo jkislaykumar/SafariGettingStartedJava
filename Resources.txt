@@ -1,8 +1,66 @@
-Heinz Kabutz's email list for interesting Safari classes:
-https://javaspecialists.eu/courses/oreilly/
+Resources
+---------
 
 Simon's (nascent) YouTube channel:
-https://www.youtube.com/@DancingCloudServices
+ - https://www.youtube.com/@DancingCloudServices
 
-Simon's website, with contact info:
-dancingcloudservices.com
+Sign up for Heinz Kabutz's monthly "favorite courses on O'Reilly" email:
+ - https://javaspecialists.eu/courses/oreilly/
+(You might want to join his "Java Specialists" email newsletter too!)
+
+Onsite training, course development, and mentoring:
+Contact me directly at simon@dancingcloudservices.com if you or your
+organization might be interested in customized training or course
+development. I work in Java, Scala, JavaScript, Python, Go, and
+address OO design, functional design, and software architecture
+topics, and am happy to deliver training either onsite or web-based,
+or to build courses and training material in video or other formats.
+
+Simon's Java videos
+ - Java Programming Basics:
+   https://learning.oreilly.com/course/java-programming-basics/9780133975154/
+ - Java Programming Essentials:
+   https://learning.oreilly.com/videos/java-programming-essentials/9780137475438/
+ - Core Java Data Types:
+   https://learning.oreilly.com/videos/core-java-data/9780137368624/
+ - Java Collections:
+   https://learning.oreilly.com/videos/modern-java-collections/9780134663524
+ - Functional programming with Java:
+   https://learning.oreilly.com/videos/functional-programming-for/9780134778235
+ - Up and Running with the Java Platform Module System
+   (Note, this is *not relevant* to Java 8 certification):
+   https://learning.oreilly.com/videos/up-and-running/9780137475216/
+ - And other live classes
+
+Simon's Java certification videos
+Java 17 Certification Study Guide:
+ - https://learning.oreilly.com/videos/java-se-17/9780138194796/
+Java 11 Certification Study Guide:
+ - https://learning.oreilly.com/videos/java-se-11/9780137586875/
+OCA Java 8 (more detailed on basics, and all relevant for 11 & 17!)
+ - https://learning.oreilly.com/videos/oca-java-se/9780134427201
+
+Books:
+  Head First Java (Sierra, Bates, Gee)
+  - https://www.amazon.com/Head-First-Java-Brain-Friendly-Guide/dp/1491910771/
+  Effective Java (Bloch)
+  - https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997
+
+Java Ranch / Code Ranch
+ - Forum site that's actually helpful to learners
+ - Created for, and still heavily focused on, certification
+ - Lots of resources, book reviews, sample quizzes (caution!)
+ - JavaRanch.com
+ - Or direct to the Certification FAQ
+   https://www.coderanch.com/wiki/746889/certification/OCP-FAQ
+
+Java tutorial (Java 8 only, sadly, but excellent for helping understand
+   core material up to and including lambdas and streams.)
+ - https://docs.oracle.com/javase/tutorial/
+
+Java 21 API documentation:
+ - https://docs.oracle.com/en/java/javase/21/docs/api/index.html
+
+Oracle Java Magazine quiz questions
+ - https://blogs.oracle.com/javamagazine/search.html?q=Quiz+Yourself
+
